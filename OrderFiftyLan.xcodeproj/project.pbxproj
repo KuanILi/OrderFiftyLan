@@ -9,21 +9,33 @@
 /* Begin PBXBuildFile section */
 		8EEB3B6928EFB0B5001FA7B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B6828EFB0B5001FA7B5 /* AppDelegate.swift */; };
 		8EEB3B6B28EFB0B5001FA7B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B6A28EFB0B5001FA7B5 /* SceneDelegate.swift */; };
-		8EEB3B6D28EFB0B5001FA7B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B6C28EFB0B5001FA7B5 /* ViewController.swift */; };
 		8EEB3B7028EFB0B5001FA7B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEB3B6E28EFB0B5001FA7B5 /* Main.storyboard */; };
 		8EEB3B7228EFB0B6001FA7B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EEB3B7128EFB0B6001FA7B5 /* Assets.xcassets */; };
 		8EEB3B7528EFB0B6001FA7B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EEB3B7328EFB0B6001FA7B5 /* LaunchScreen.storyboard */; };
+		8EEB3B7D28EFC93F001FA7B5 /* DrinksMenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B7C28EFC93F001FA7B5 /* DrinksMenuTableViewController.swift */; };
+		8EEB3B7F28EFC96A001FA7B5 /* EditTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B7E28EFC96A001FA7B5 /* EditTableViewController.swift */; };
+		8EEB3B8328EFCDAB001FA7B5 /* DrinksMenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B8228EFCDAB001FA7B5 /* DrinksMenuTableViewCell.swift */; };
+		8EEB3B8528EFCDDA001FA7B5 /* ShoppingListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B8428EFCDDA001FA7B5 /* ShoppingListTableViewCell.swift */; };
+		8EEB3B8728EFCF0D001FA7B5 /* DrinksInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B8628EFCF0D001FA7B5 /* DrinksInfo.swift */; };
+		8EEB3B8928EFD3F9001FA7B5 /* ShoppingListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B8828EFD3F9001FA7B5 /* ShoppingListViewController.swift */; };
+		8EEB3B8B28EFD68D001FA7B5 /* OrderList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EEB3B8A28EFD68D001FA7B5 /* OrderList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8EEB3B6528EFB0B5001FA7B5 /* OrderFiftyLan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrderFiftyLan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EEB3B6828EFB0B5001FA7B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EEB3B6A28EFB0B5001FA7B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		8EEB3B6C28EFB0B5001FA7B5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8EEB3B6F28EFB0B5001FA7B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8EEB3B7128EFB0B6001FA7B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EEB3B7428EFB0B6001FA7B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EEB3B7628EFB0B6001FA7B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EEB3B7C28EFC93F001FA7B5 /* DrinksMenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinksMenuTableViewController.swift; sourceTree = "<group>"; };
+		8EEB3B7E28EFC96A001FA7B5 /* EditTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTableViewController.swift; sourceTree = "<group>"; };
+		8EEB3B8228EFCDAB001FA7B5 /* DrinksMenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinksMenuTableViewCell.swift; sourceTree = "<group>"; };
+		8EEB3B8428EFCDDA001FA7B5 /* ShoppingListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListTableViewCell.swift; sourceTree = "<group>"; };
+		8EEB3B8628EFCF0D001FA7B5 /* DrinksInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinksInfo.swift; sourceTree = "<group>"; };
+		8EEB3B8828EFD3F9001FA7B5 /* ShoppingListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListViewController.swift; sourceTree = "<group>"; };
+		8EEB3B8A28EFD68D001FA7B5 /* OrderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +68,15 @@
 		8EEB3B6728EFB0B5001FA7B5 /* OrderFiftyLan */ = {
 			isa = PBXGroup;
 			children = (
+				8EEB3B8A28EFD68D001FA7B5 /* OrderList.swift */,
+				8EEB3B8828EFD3F9001FA7B5 /* ShoppingListViewController.swift */,
+				8EEB3B8628EFCF0D001FA7B5 /* DrinksInfo.swift */,
+				8EEB3B8428EFCDDA001FA7B5 /* ShoppingListTableViewCell.swift */,
+				8EEB3B8228EFCDAB001FA7B5 /* DrinksMenuTableViewCell.swift */,
+				8EEB3B7E28EFC96A001FA7B5 /* EditTableViewController.swift */,
+				8EEB3B7C28EFC93F001FA7B5 /* DrinksMenuTableViewController.swift */,
 				8EEB3B6828EFB0B5001FA7B5 /* AppDelegate.swift */,
 				8EEB3B6A28EFB0B5001FA7B5 /* SceneDelegate.swift */,
-				8EEB3B6C28EFB0B5001FA7B5 /* ViewController.swift */,
 				8EEB3B6E28EFB0B5001FA7B5 /* Main.storyboard */,
 				8EEB3B7128EFB0B6001FA7B5 /* Assets.xcassets */,
 				8EEB3B7328EFB0B6001FA7B5 /* LaunchScreen.storyboard */,
@@ -138,8 +156,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8EEB3B6D28EFB0B5001FA7B5 /* ViewController.swift in Sources */,
+				8EEB3B8528EFCDDA001FA7B5 /* ShoppingListTableViewCell.swift in Sources */,
+				8EEB3B8728EFCF0D001FA7B5 /* DrinksInfo.swift in Sources */,
+				8EEB3B8B28EFD68D001FA7B5 /* OrderList.swift in Sources */,
+				8EEB3B8328EFCDAB001FA7B5 /* DrinksMenuTableViewCell.swift in Sources */,
+				8EEB3B7D28EFC93F001FA7B5 /* DrinksMenuTableViewController.swift in Sources */,
+				8EEB3B8928EFD3F9001FA7B5 /* ShoppingListViewController.swift in Sources */,
 				8EEB3B6928EFB0B5001FA7B5 /* AppDelegate.swift in Sources */,
+				8EEB3B7F28EFC96A001FA7B5 /* EditTableViewController.swift in Sources */,
 				8EEB3B6B28EFB0B5001FA7B5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
